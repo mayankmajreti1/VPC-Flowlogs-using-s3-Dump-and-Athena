@@ -33,8 +33,10 @@
 
 5. Replace path of S3 bucket , and paste url of S3 bucket which stores log path .
 6. Add another Query & Run the following script , but first replace the path and set date according to you .
+
 ![Screenshot from 2023-06-08 12-00-18](https://github.com/mayankmajreti1/Cloud-Custodian/assets/126334005/7a0f9290-f575-4382-9412-059d2dc0ca29)
 7. Open another Query and RUN the following script
+
 ![Screenshot from 2023-06-08 12-03-32](https://github.com/mayankmajreti1/Cloud-Custodian/assets/126334005/fdf8575e-b7c3-43a0-8155-fcfa557432cd)
 
 #### In the Result section you can check your logs now .
